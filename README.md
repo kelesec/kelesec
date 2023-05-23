@@ -1,4 +1,5 @@
-### Hi there 👋
+### About Me.
+中学时期种下一棵Hacker种子，等待它生根发芽
 
 <!--
 **kelesec/kelesec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
