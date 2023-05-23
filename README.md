@@ -1,5 +1,6 @@
 ### About Me.
-中学时期种下一棵Hacker种子，等待它生根发芽
+
+中学时悄悄种下一颗Hacker种子，看着它一点点的生根、发芽，再看着它一点点长大。
 
 <!--
 **kelesec/kelesec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
